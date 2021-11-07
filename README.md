@@ -1,4 +1,4 @@
-# Unity-MathAdventure-RPG-Game
+# Unity-MathAdventure-RPG-MobileGame
 ‘Math Adventure’ is a Mathematics game built for kids. It is an immersive mobile
 game that developed in 3D environments. The foundation of the game is the
 blending of role-playing game concept with mathematics. This is because kids are
